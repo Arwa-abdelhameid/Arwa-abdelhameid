@@ -27,21 +27,22 @@
       <li> 📧 Reach me at: <b>arwa.abdelhameid@gmail.com</b></li>
     </ul>
 
-    <h3>🔗 Connect with me:</h3>
-    <p align="left">
-      <a href="https://www.linkedin.com/in/arwa-abdelhameid/" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="35" />
-      </a>
-    </p>
+   <h3>🔗 Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/arwa-abdelhameid/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="35" />
+  </a>
+</p>
 
-    <h3>🛠️ Languages and Tools:</h3>
-    <p align="left"> 
-      <img src="https://cdn.simpleicons.org/html5/E34F26" width="35" alt="HTML logo" />
-      <img src="https://cdn.simpleicons.org/css3/1572B6" width="35" alt="CSS logo" />
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="35" alt="JavaScript logo" />
-      <img src="https://cdn.simpleicons.org/git/F05032" width="35" alt="Git logo" />
-      <img src="https://cdn.simpleicons.org/github/181717" width="35" alt="GitHub logo" />
-    </p>
+<h3>🛠️ Languages and Tools:</h3>
+<p align="left"> 
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="35" alt="HTML logo" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="35" alt="CSS logo" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="35" alt="JavaScript logo" />
+  <img src="https://cdn.simpleicons.org/git/F05032" width="35" alt="Git logo" />
+  <img src="https://cdn.simpleicons.org/github/181717" width="35" alt="GitHub logo" />
+</p> 
+
 </th>
 </tr>
 </table>
