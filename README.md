@@ -25,7 +25,7 @@
       <li> 🌐 I’m passionate about web development and love building beautiful, responsive websites.</li>
       <li> 💡 Currently learning HTML, CSS, JavaScript and working on small frontend projects.</li>
       <li> 💬 Always open to learning, collaboration, and new experiences in tech.</li>
-      <li> 📧 Reach me at: <b>arwa.yourmail@gmail.com</b></li>
+      <li> 📧 Reach me at: <b>arwa.abdelhameid@gmail.com</b></li>
     </ul>
 
     <h3>🔗 Connect with me:</h3>
