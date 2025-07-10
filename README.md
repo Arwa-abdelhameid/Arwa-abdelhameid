@@ -1,11 +1,6 @@
 <img align="center" src="assests/banner.gif" alt="banner">
 
 <div style="text-align: center;"> 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Arwa-Abdelhameid&label=Profile%20views&color=0e75b6&style=flat" alt="Arwa" />
-</p> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Arwa-Abdelhameid&show_icons=true&theme=dark" alt="GitHub Stats"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arwa-Abdelhameid&theme=dark" alt="GitHub Streak"/>
 </div>
 
 <h1 align="center">Welcome! I'm Arwa Abd Elhameid</h1>
