@@ -1,7 +1,7 @@
 <img align="center" src="assests/banner.gif" alt="banner">
 
 <div style="text-align: center;"> 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Arwa-Abdelhameid&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Arwa-Abdelhameid/github-widgetbox) 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Arwa-Abdelhameid&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Arwa-Abdelhameid/github-widgetbox)
 </div>
 
 <h1 align="center">Welcome! I'm Arwa Abd Elhameid</h1>
